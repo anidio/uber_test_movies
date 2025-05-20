@@ -1,7 +1,6 @@
 package springboot.desafio.uber.service;
 
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.reactive.function.client.WebClient;
 import springboot.desafio.uber.model.MovieLocation;
 
