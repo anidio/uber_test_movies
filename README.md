@@ -24,12 +24,13 @@ API REST desenvolvida com Spring Boot que consome dados da API pública de São 
 1. Clone o repositório
 ```bash
 git clone https://github.com/anidio/uber_test_movies.git
+```
 
 2. Entre na pasta do projeto
 ```
 cd uber_test_movies
 ```
-3. Execute o projeto
+4. Execute o projeto
 ```
 mvn spring-boot:run
 ```
